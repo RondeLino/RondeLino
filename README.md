@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RondeLino
-- 👀 I’m interested em me especializar na linguagem Javascript
-- 🌱 I’m currently learning sobre JS
+- 👀 I’m interested em me especializar na linguagem Java
+- 🌱 I’m currently learning sobre Java
 - 💞️ I’m looking to collaborate on códigos 
 -
